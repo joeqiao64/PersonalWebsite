@@ -13,10 +13,12 @@ h1 {
 }
 
 .titlea {
+  height: 100vh;
   padding: 2% 15%;
   background-color: white;
   color:black;
 }
+
 
 .navplease {
   padding: 0 0 0 4.5rem;
@@ -38,8 +40,32 @@ h1 {
 }
 
 .type-animations{
-  margin-top: 150px;
+ position: absolute;
+ top: 40%;
+ left: 44%;
+
+  /*margin-top: 250px;
   margin-bottom: 150px;
+  */
+}
+
+/* Introduction section*/
+#about{
+  color: black;
+}
+
+.mb-30{
+   margin-bottom: 30px;
+}
+.content{
+  margin-bottom: 5px;
+  position: relative;
+  left: 20%;
+}
+.intro-img{
+ padding: 0 0 0 30px;
+ position: relative;
+ left:-10%;
 }
 
 
@@ -52,18 +78,21 @@ h1 {
 
 
 
-
-
-
+/* footer section*/
 #footer{
   text-align: center;
   padding: 3% 15%;
   color:black;
 }
 
+.iccc {
+  margin: 20px 10px;
+}
+
 .copyrights{
   margin-bottom: 0;
 }
+
 .scratch{
   color: #F0F0F0;
 }
