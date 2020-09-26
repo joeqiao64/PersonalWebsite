@@ -68,8 +68,14 @@ h1 {
  left:-10%;
 }
 
+.sub-title{
+  font-size: 1.3rem;
+  color: grey;
+}
 
-
+.littleintro{
+  font-size: 1.5rem;
+}
 
 
 
